@@ -28,7 +28,7 @@ something else on the list to keep it at a fixed length.
 ### Some basics
 
 - [ ] [Understand Go pointers in less than 800 words or your money back](https://dave.cheney.net/2017/04/26/understand-go-pointers-in-less-than-800-words-or-your-money-back)
-- [ ] [Channel Axioms](https://dave.cheney.net/2014/03/19/channel-axioms)
+- [x] [Channel Axioms](https://dave.cheney.net/2014/03/19/channel-axioms)
 - [ ] [Golang channels tutorial](http://guzalexander.com/2013/12/06/golang-channels-tutorial.html)
 - [ ] [(Now You're) Thinking With Channels](http://blog.mergermarket.it/now-youre-thinking-with-channels/)
 - [ ] [Go Defer Simplified with Practical Visuals](https://blog.learngoprogramming.com/golang-defer-simplified-77d3b2b817ff)
